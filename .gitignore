@@ -1,0 +1,14 @@
+#gitignore file for Feast Famine project repository
+
+__pycache__/
+
+*.py[cod]
+
+*.pptx
+*.docx
+*.png
+*.svg
+*.jpg
+*.pdf
+*.xlsx
+
