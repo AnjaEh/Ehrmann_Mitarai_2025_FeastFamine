@@ -1,4 +1,4 @@
-Scripts for simulation of phage competition in Manuscript Ehrmann & Mitarai (2025) Host Physiology–Dependent Lysis Timing Shapes Bacteriophage Competition Under Nutrient Fluctuations
+Scripts for simulation of phage competition in Manuscript Ehrmann & Mitarai (2026) Host Physiology–Dependent Lysis Timing Shapes Bacteriophage Competition Under Nutrient Fluctuations
 
 All simulations were perfomred in the conda environment:
 FeastFamine_Simulation.yaml
@@ -10,3 +10,5 @@ os
 scipy
 matplotlib
 sklearn.linear_model
+
+Archive folder contains scripts for the previous version published as a preprint on BioRxiv (2025)
